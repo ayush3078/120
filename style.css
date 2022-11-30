@@ -1,0 +1,42 @@
+#first_div{
+    font-variant: small-caps;  
+    
+}
+
+#first_heading {
+     color: red;
+     font-size: large;
+     font-weight: bolder;
+}
+#google_lens {
+    margin-top: -80;
+    margin-left: 330;
+    height: 120px;
+    width: 120px;
+}
+#vs {
+    color: red;
+}
+#res {
+    font-weight: bolder;
+}
+#dra {
+    font-weight: bolder;
+}
+.test_image_and_result {
+    background-color: grey;
+    height: fit-content;
+    width: fit-content;
+    border-radius: 20px;
+    
+}
+.copy_right_footer {
+    position: fixed;
+    color: azure;
+    background-color: gray;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: large;
+    font-variant: small-caps;
+  }
